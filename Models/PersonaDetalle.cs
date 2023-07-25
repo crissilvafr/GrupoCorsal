@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace GrupoCorsal.Models{
 
-    public class personaDetalle{
+    public class PersonaDetalle{
 
         [Key]
         public int id { get; set; }
