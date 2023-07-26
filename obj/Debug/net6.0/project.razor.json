@@ -18379,8 +18379,53 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/MarcaProducto/Create.cshtml",
+      "TargetPath": "Views\\MarcaProducto\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/PersonaDetalle/Create.cshtml",
+      "TargetPath": "Views\\PersonaDetalle\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Shared/_LoginPartial.cshtml",
       "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Cotizacion/Details.cshtml",
+      "TargetPath": "Views\\Cotizacion\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Cotizacion/Index.cshtml",
+      "TargetPath": "Views\\Cotizacion\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/TipoPersona/Delete.cshtml",
+      "TargetPath": "Views\\TipoPersona\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/PersonaDetalle/Delete.cshtml",
+      "TargetPath": "Views\\PersonaDetalle\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Sucursal/Delete.cshtml",
+      "TargetPath": "Views\\Sucursal\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Persona/Details.cshtml",
+      "TargetPath": "Views\\Persona\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Marca/Delete.cshtml",
+      "TargetPath": "Views\\Marca\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18389,8 +18434,48 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/PersonaDetalle/Index.cshtml",
+      "TargetPath": "Views\\PersonaDetalle\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Marca/Edit.cshtml",
+      "TargetPath": "Views\\Marca\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Sucursal/Create.cshtml",
+      "TargetPath": "Views\\Sucursal\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/TipoUsuario/Delete.cshtml",
+      "TargetPath": "Views\\TipoUsuario\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Producto/Edit.cshtml",
+      "TargetPath": "Views\\Producto\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/TipoPersona/Create.cshtml",
+      "TargetPath": "Views\\TipoPersona\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Producto/Index.cshtml",
+      "TargetPath": "Views\\Producto\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/crissilvafr/GrupoCorsal/Areas/Identity/Pages/_ViewImports.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/MarcaProducto/Index.cshtml",
+      "TargetPath": "Views\\MarcaProducto\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18399,8 +18484,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Mensualidad/Delete.cshtml",
+      "TargetPath": "Views\\Mensualidad\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/crissilvafr/GrupoCorsal/Areas/Identity/Pages/Account/Register.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Persona/Create.cshtml",
+      "TargetPath": "Views\\Persona\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18409,8 +18504,38 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/TipoUsuario/Details.cshtml",
+      "TargetPath": "Views\\TipoUsuario\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Sexo/Create.cshtml",
+      "TargetPath": "Views\\Sexo\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Shared/Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/TipoPersona/Edit.cshtml",
+      "TargetPath": "Views\\TipoPersona\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Persona/Delete.cshtml",
+      "TargetPath": "Views\\Persona\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/TipoUsuario/Create.cshtml",
+      "TargetPath": "Views\\TipoUsuario\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Producto/Delete.cshtml",
+      "TargetPath": "Views\\Producto\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18419,13 +18544,153 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/TipoUsuario/Edit.cshtml",
+      "TargetPath": "Views\\TipoUsuario\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/MarcaProducto/Details.cshtml",
+      "TargetPath": "Views\\MarcaProducto\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Producto/Create.cshtml",
+      "TargetPath": "Views\\Producto\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Sucursal/Edit.cshtml",
+      "TargetPath": "Views\\Sucursal\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/crissilvafr/GrupoCorsal/Areas/Identity/Pages/Account/Logout.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Sexo/Edit.cshtml",
+      "TargetPath": "Views\\Sexo\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Home/Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Mensualidad/Index.cshtml",
+      "TargetPath": "Views\\Mensualidad\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Sexo/Index.cshtml",
+      "TargetPath": "Views\\Sexo\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Sexo/Delete.cshtml",
+      "TargetPath": "Views\\Sexo\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/TipoPersona/Index.cshtml",
+      "TargetPath": "Views\\TipoPersona\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Marca/Index.cshtml",
+      "TargetPath": "Views\\Marca\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/MarcaProducto/Delete.cshtml",
+      "TargetPath": "Views\\MarcaProducto\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Version/Details.cshtml",
+      "TargetPath": "Views\\Version\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Sucursal/Details.cshtml",
+      "TargetPath": "Views\\Sucursal\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Mensualidad/Create.cshtml",
+      "TargetPath": "Views\\Mensualidad\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Cotizacion/Delete.cshtml",
+      "TargetPath": "Views\\Cotizacion\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Version/Edit.cshtml",
+      "TargetPath": "Views\\Version\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Mensualidad/Edit.cshtml",
+      "TargetPath": "Views\\Mensualidad\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Marca/Create.cshtml",
+      "TargetPath": "Views\\Marca\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/TipoPersona/Details.cshtml",
+      "TargetPath": "Views\\TipoPersona\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/MarcaProducto/Edit.cshtml",
+      "TargetPath": "Views\\MarcaProducto\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/PersonaDetalle/Edit.cshtml",
+      "TargetPath": "Views\\PersonaDetalle\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/TipoUsuario/Index.cshtml",
+      "TargetPath": "Views\\TipoUsuario\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Mensualidad/Details.cshtml",
+      "TargetPath": "Views\\Mensualidad\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Sexo/Details.cshtml",
+      "TargetPath": "Views\\Sexo\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Sucursal/Index.cshtml",
+      "TargetPath": "Views\\Sucursal\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Version/Index.cshtml",
+      "TargetPath": "Views\\Version\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Version/Create.cshtml",
+      "TargetPath": "Views\\Version\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Producto/Details.cshtml",
+      "TargetPath": "Views\\Producto\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18439,8 +18704,38 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Cotizacion/Edit.cshtml",
+      "TargetPath": "Views\\Cotizacion\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/PersonaDetalle/Details.cshtml",
+      "TargetPath": "Views\\PersonaDetalle\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/crissilvafr/GrupoCorsal/Views/_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Persona/Index.cshtml",
+      "TargetPath": "Views\\Persona\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Cotizacion/Create.cshtml",
+      "TargetPath": "Views\\Cotizacion\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Persona/Edit.cshtml",
+      "TargetPath": "Views\\Persona\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Version/Delete.cshtml",
+      "TargetPath": "Views\\Version\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18451,6 +18746,11 @@
     {
       "FilePath": "/home/crissilvafr/GrupoCorsal/Areas/Identity/Pages/Account/Login.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/crissilvafr/GrupoCorsal/Views/Marca/Details.cshtml",
+      "TargetPath": "Views\\Marca\\Details.cshtml",
       "FileKind": "mvc"
     }
   ],

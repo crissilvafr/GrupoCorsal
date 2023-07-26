@@ -1,0 +1,65 @@
+@model IEnumerable<GrupoCorsal.Models.Mensualidad>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.mensualidad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cotizacion_id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.monto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.activo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.numAutorizacion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.status)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.mensualidad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cotizacion_id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.monto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.activo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.numAutorizacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.status)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

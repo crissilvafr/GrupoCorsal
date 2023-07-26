@@ -59,7 +59,7 @@ dotnet aspnet-codegenerator controller -name PersonaDetalleController -m Persona
 
 dotnet aspnet-codegenerator controller -name ProductoController -m Producto -dc GrupoCorsal.Data.ApplicationDbContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries -sqlite
 
-dotnet aspnet-codegenerator controller -name SexoController -m Sexo -dc GrupoCorsal.Data.ApplicationDbContext ---relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries -sqlite
+dotnet aspnet-codegenerator controller -name SexoController -m Sexo -dc GrupoCorsal.Data.ApplicationDbContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries -sqlite
 
 dotnet aspnet-codegenerator controller -name SucursalController -m Sucursal -dc GrupoCorsal.Data.ApplicationDbContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries -sqlite
 

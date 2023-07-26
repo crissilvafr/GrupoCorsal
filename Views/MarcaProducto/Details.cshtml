@@ -1,0 +1,42 @@
+@model GrupoCorsal.Models.MarcaProducto
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>MarcaProducto</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.marca_id)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.marca_id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.producto_id)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.producto_id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.version_id)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.version_id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.activo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.activo)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,54 @@
+@model GrupoCorsal.Models.Mensualidad
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Mensualidad</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.mensualidad)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.mensualidad)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.cotizacion_id)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.cotizacion_id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.monto)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.monto)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.activo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.activo)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.numAutorizacion)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.numAutorizacion)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.status)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.status)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

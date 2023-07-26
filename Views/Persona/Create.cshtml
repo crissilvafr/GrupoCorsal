@@ -1,0 +1,73 @@
+@model GrupoCorsal.Models.Persona
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Persona</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="nombre" class="control-label"></label>
+                <input asp-for="nombre" class="form-control" />
+                <span asp-validation-for="nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="apellido1" class="control-label"></label>
+                <input asp-for="apellido1" class="form-control" />
+                <span asp-validation-for="apellido1" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="apllido2" class="control-label"></label>
+                <input asp-for="apllido2" class="form-control" />
+                <span asp-validation-for="apllido2" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tipo_persona" class="control-label"></label>
+                <input asp-for="tipo_persona" class="form-control" />
+                <span asp-validation-for="tipo_persona" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="folio" class="control-label"></label>
+                <input asp-for="folio" class="form-control" />
+                <span asp-validation-for="folio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="sexo_id" class="control-label"></label>
+                <input asp-for="sexo_id" class="form-control" />
+                <span asp-validation-for="sexo_id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="fecha_nacimiento" class="control-label"></label>
+                <input asp-for="fecha_nacimiento" class="form-control" />
+                <span asp-validation-for="fecha_nacimiento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="rfc" class="control-label"></label>
+                <input asp-for="rfc" class="form-control" />
+                <span asp-validation-for="rfc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="curp" class="control-label"></label>
+                <input asp-for="curp" class="form-control" />
+                <span asp-validation-for="curp" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
