@@ -4,75 +4,113 @@
     ViewData["Title"] = "Create";
 }
 
-<h1>Create</h1>
-
-<h4>Cotizacion</h4>
+<h1>Nueva Cotizacion</h1>
 <hr />
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md">
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="folio" class="control-label"></label>
-                <input asp-for="folio" class="form-control" />
-                <span asp-validation-for="folio" class="text-danger"></span>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <label asp-for="folio" class="control-label">Folio</label>
+                        <input asp-for="folio" class="form-control" />
+                        <span asp-validation-for="folio" class="text-danger"></span>
+                    </div>
+                </div>
+                <br>
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <label asp-for="fecha_cotizacion" class="control-label">Fecha de cotizacion</label>
+                        <input asp-for="fecha_cotizacion" class="form-control" />
+                        <span asp-validation-for="fecha_cotizacion" class="text-danger"></span>
+                    </div>
+                </div>
+                <br>
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <label asp-for="produto_id" class="control-label">Producto</label>
+                        <input asp-for="produto_id" class="form-control" />
+                        <span asp-validation-for="produto_id" class="text-danger"></span>
+                    </div>
+                </div>
             </div>
-            <div class="form-group">
-                <label asp-for="fecha_cotizacion" class="control-label"></label>
-                <input asp-for="fecha_cotizacion" class="form-control" />
-                <span asp-validation-for="fecha_cotizacion" class="text-danger"></span>
+            <br>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <label asp-for="monto" class="control-label">Monto</label>
+                        <input asp-for="monto" class="form-control" />
+                        <span asp-validation-for="monto" class="text-danger"></span>
+                    </div>
+                </div>
+                <br>
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <label asp-for="anio" class="control-label">Año</label>
+                        <input asp-for="anio" class="form-control" />
+                        <span asp-validation-for="anio" class="text-danger"></span>
+                    </div>
+                </div>
+                <br>
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <label asp-for="persona_id" class="control-label">Persona</label>
+                        <input asp-for="persona_id" class="form-control" />
+                        <span asp-validation-for="persona_id" class="text-danger"></span>
+                    </div>
+                </div>
             </div>
-            <div class="form-group">
-                <label asp-for="produto_id" class="control-label"></label>
-                <input asp-for="produto_id" class="form-control" />
-                <span asp-validation-for="produto_id" class="text-danger"></span>
+            <br>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <label asp-for="usuario_id" class="control-label">Usuario</label>
+                        <input asp-for="usuario_id" class="form-control" />
+                        <span asp-validation-for="usuario_id" class="text-danger"></span>
+                    </div>
+                </div>
+                <br>
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <label asp-for="apertura_id" class="control-label">Apertura</label>
+                        <input asp-for="apertura_id" class="form-control" />
+                        <span asp-validation-for="apertura_id" class="text-danger"></span>
+                    </div>
+                </div>
+                <br>
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <label asp-for="comision_asesor" class="control-label">Comision</label>
+                        <input asp-for="comision_asesor" class="form-control" />
+                        <span asp-validation-for="comision_asesor" class="text-danger"></span>
+                    </div>
+                </div>
             </div>
-            <div class="form-group">
-                <label asp-for="monto" class="control-label"></label>
-                <input asp-for="monto" class="form-control" />
-                <span asp-validation-for="monto" class="text-danger"></span>
+            <br>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <label asp-for="fecha_contratacion" class="control-label">Fecha de contratacion</label>
+                        <input asp-for="fecha_contratacion" class="form-control" />
+                        <span asp-validation-for="fecha_contratacion" class="text-danger"></span>
+                    </div>
+                </div>
             </div>
-            <div class="form-group">
-                <label asp-for="anio" class="control-label"></label>
-                <input asp-for="anio" class="form-control" />
-                <span asp-validation-for="anio" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="persona_id" class="control-label"></label>
-                <input asp-for="persona_id" class="form-control" />
-                <span asp-validation-for="persona_id" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="usuario_id" class="control-label"></label>
-                <input asp-for="usuario_id" class="form-control" />
-                <span asp-validation-for="usuario_id" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="apertura_id" class="control-label"></label>
-                <input asp-for="apertura_id" class="form-control" />
-                <span asp-validation-for="apertura_id" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="comision_asesor" class="control-label"></label>
-                <input asp-for="comision_asesor" class="form-control" />
-                <span asp-validation-for="comision_asesor" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="fecha_contratacion" class="control-label"></label>
-                <input asp-for="fecha_contratacion" class="form-control" />
-                <span asp-validation-for="fecha_contratacion" class="text-danger"></span>
-            </div>
+            <br>
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
         </form>
     </div>
 </div>
-
+<br>
 <div>
     <a asp-action="Index">Back to List</a>
 </div>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }
