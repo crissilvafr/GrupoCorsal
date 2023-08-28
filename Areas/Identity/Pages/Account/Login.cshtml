@@ -8,9 +8,89 @@
     body {
         background-color: #0378A6;
     }
+
+    .login-container {
+    background-color: white;
+    width: 443px;
+    height: 650px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 30px;
+    }
+
+    .login-container h2 {
+    text-align: center;
+    }
+
+    .login-container button {
+     margin-top: 10px;
+    }
+
+    .login-wrapper {
+     position: absolute;
+     top: 50%;
+     left: 50%;
+    transform: translate(-50%, -50%);
+    }
+
+    #login-submit {
+        background-color: #0378A6;
+        border: none;
+        color: white;
+        width: 317px;
+        height: 56px;
+        border-radius: 59px;
+    }
+
+    #login-submit:hover {
+        background-color: #0072a3; 
+    }
+
+    .Password-Forgot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    }
+
+    .Password-Forgot a {
+    color: #0378A6;
+     text-decoration: none; 
+    }
+
+    .form-control{
+        border: 3px solid #0378A6; 
+        border-radius: 30px;
+        color: #0378A6;
+        height: 49px;
+    }
+
+    .login-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    }
+
+.login-position {
+
+}
+
+.form-floating>.form-control:focus, .form-floating>.form-control:not(:placeholder-shown) {
+    padding-top: 0; 
+    padding-bottom: 0; 
+    color: #0072a3;
+}
+
+    
+
+    
+
+
+
 </style>
 
 <div class="login-container login-wrapper">
+    <div class="login-position">
     <center>
         <img src="../../../img/logo.png" width="350px" alt="Logo">
     </center>
@@ -18,42 +98,48 @@
     <form id="account" method="post">
         <div asp-validation-summary="ModelOnly" class="text-danger"></div>
         <div class="form-floating">
-            <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" />
-            <label asp-for="Input.Email" class="form-label">Email</label>
+            <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" data-val-required="*Usuario Requerido."/>
+             @* <label asp-for="Input.Email" class="form-label">Usuario</label>  *@
             <span asp-validation-for="Input.Email" class="text-danger"></span>
         </div>
         <br>
-        <div class="form-floating">
-            <input asp-for="Input.Password" class="form-control" autocomplete="current-password" aria-required="true" />
-            <label asp-for="Input.Password" class="form-label">Password</label>
-            <span asp-validation-for="Input.Password" class="text-danger"></span>
-        </div>
+    <div class="form-floating">
+    <input asp-for="Input.Password" class="form-control" autocomplete="current-password" aria-required="true" data-val-required="*Contraseña Requerida." />
+    @* <label asp-for="Input.Password" class="form-label">Contraseña</label> *@
+    <span asp-validation-for="Input.Password" class="text-danger"></span>
+    </div>
+        <br>
         <div>
+            <button id="login-submit" type="submit" class="w-100 btn btn-lg btn-primary">Iniciar Sesión</button>
+        </div>
+        <div class="Password-Forgot">
+            <p>
+                <a id="forgot-password" asp-page="./ForgotPassword">¿Olvidaste Tu Contraseña?</a>
+            </p>
+        </div>
+    </form>
+</div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+            @* Opcione Deshabilitada *@
+             @* <div>
             <div class="checkbox">
                 <label asp-for="Input.RememberMe" class="form-label">
                     <input class="form-check-input" asp-for="Input.RememberMe" />
                     @Html.DisplayNameFor(m => m.Input.RememberMe)
                 </label>
             </div>
-        </div>
-        <br>
-        <div>
-            <button id="login-submit" type="submit" class="w-100 btn btn-lg btn-primary">Log in</button>
-        </div>
-        <div>
-            <p>
-                <a id="forgot-password" asp-page="./ForgotPassword">Forgot your password?</a>
-            </p>
-            <p>
+        </div> *@
+
+            @* Opciones Deshabilitadas *@
+
+            @* <p>
                 <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Register as a new user</a>
             </p>
             <p>
                 <a id="resend-confirmation" asp-page="./ResendEmailConfirmation">Resend email confirmation</a>
-            </p>
-        </div>
-    </form>
-</div>
-
-@section Scripts {
-    <partial name="_ValidationScriptsPartial" />
-}
+            </p> *@
