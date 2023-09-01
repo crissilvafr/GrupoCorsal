@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rEUOxKaRRsaIeGurAopq2tMLzTn9WZBAbkIOAm3wa+lDxZ2BS/Gss16D0qggg6jBNusliwIXh06nHRRBfiPxcg==",
+  "dgSpecHash": "SeFszd+C8xGdK3o0eh6qxYAR04gxzvF8suSLugmV6Q04K5ACAzcSBzKkAHwluhQARNrWDTb1Df2XqYtOti/wlg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Admin\\Desktop\\GrupoCorsal\\GrupoCorsal.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\GrupoCorsal\\GrupoCorsal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

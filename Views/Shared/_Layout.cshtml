@@ -14,100 +14,126 @@
     <link rel="stylesheet" href="~/GrupoCorsal.styles.css" asp-append-version="true" />
 </head>
 
+
+
 <body>
     <div class="container-fluid">
-        <div class="row flex-nowrap">
+        <div class="row">
             @if (SignInManager.IsSignedIn(User))
             {
-                <div class="col-auto col-md-3 col-xl-2 px-sm-2 px-0 bg-dark">
+                <div class="col-auto col-md-3 col-xl-2 px-sm-2 px-0" style="background-color: #0378A6;">
                     <div class="d-flex flex-column align-items-center align-items-sm-start px-3 pt-2 text-white min-vh-100">
                         <a href="/"
                             class="d-flex align-items-center pb-3 mb-md-0 me-md-auto text-white text-decoration-none">
-                            <span class="fs-5 d-none d-sm-inline">Menu</span>
+                            <b><span class="fs-5 d-none d-sm-inline">GrupoCorsal</span></b>
                         </a>
+
                         <ul class="nav nav-pills flex-column mb-sm-auto mb-0 align-items-center align-items-sm-start"
                             id="menu">
                             <li class="nav-item">
-                                <a class="nav-link align-middle px-0" asp-area="" asp-controller="Home" asp-action="Index">
+                                <div class="profile d-flex flex-column align-items-center mt-auto" style="width: 300px;">
+                                    <img style="border-radius: 50%; width: 250px; margin-bottom: 20px; height: 250px;"
+                                        src="https://vivolabs.es/wp-content/uploads/2022/03/perfil-hombre-vivo.png" alt="">
+                                    <div class="d-flex align-items-center">
+                                        <a class="nav-link" asp-area="Identity" asp-page="/Account/Manage/Index"
+                                            title="Manage" style="text-decoration: none; color: white;">
+                                            <span class="bi bi-gear-fill me-2"></span>
+                                            Editar Perfil
+                                        </a>
+                                    </div>
+                                </div>
+                            </li>
+                            <br>
+                            <li class="nav-item">
+                                <a class="nav-link align-middle px-0" style="color: White;" asp-area=""
+                                    asp-controller="Home" asp-action="Index">
                                     <i class="fs-4 bi-house"></i> <span class="ms-1 d-none d-sm-inline">Home</span>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link align-middle px-0" asp-area="" asp-controller="Cotizacion"
-                                    asp-action="Index">
+                                <a class="nav-link align-middle px-0" style="color: White;" asp-area=""
+                                    asp-controller="Cotizacion" asp-action="Index">
                                     <i class="bi bi-currency-dollar"></i> <span
                                         class="ms-1 d-none d-sm-inline">Cotizaciones</span>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link align-middle px-0" asp-area="" asp-controller="Marca" asp-action="Index">
+                                <a class="nav-link align-middle px-0" style="color: White;" asp-area=""
+                                    asp-controller="Marca" asp-action="Index">
                                     <i class="bi bi-r-circle"></i> <span class="ms-1 d-none d-sm-inline">Marcas</span>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link align-middle px-0" asp-area="" asp-controller="MarcaProducto"
-                                    asp-action="Index">
+                                <a class="nav-link align-middle px-0" style="color: White;" asp-area=""
+                                    asp-controller="MarcaProducto" asp-action="Index">
                                     <i class="fs-4 bi-house"></i> <span
                                         class="ms-1 d-none d-sm-inline">Marca/Producto</span>
                                 </a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link align-middle px-0" asp-area="" asp-controller="Mensualidad"
-                                    asp-action="Index">
-                                    <i class="bi bi-wallet2"></i> <span class="ms-1 d-none d-sm-inline">Mensualidades</span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link align-middle px-0" asp-area="" asp-controller="Persona"
-                                    asp-action="Index">
-                                    <i class="bi bi-people"></i> <span class="ms-1 d-none d-sm-inline">Personas</span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link align-middle px-0" asp-area="" asp-controller="PersonaDetalle"
-                                    asp-action="Index">
-                                    <i class="bi bi-person-plus"></i> <span
-                                        class="ms-1 d-none d-sm-inline">Persona/Detalle</span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link align-middle px-0" asp-area="" asp-controller="Producto"
-                                    asp-action="Index">
-                                    <i class="fs-4 bi-grid"></i> <span class="ms-1 d-none d-sm-inline">Productos</span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link align-middle px-0" asp-area="" asp-controller="Sexo" asp-action="Index">
-                                    <i class="bi bi-gender-ambiguous"></i> <span
-                                        class="ms-1 d-none d-sm-inline">Sexos</span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link align-middle px-0" asp-area="" asp-controller="Sucursal"
-                                    asp-action="Index">
-                                    <i class="bi bi-building"></i> <span class="ms-1 d-none d-sm-inline">Sucursales</span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link align-middle px-0" asp-area="" asp-controller="TipoPersona"
-                                    asp-action="Index">
-                                    <i class="bi bi-person-square"></i> <span class="ms-1 d-none d-sm-inline">Tipos de
-                                        Persona</span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link align-middle px-0" asp-area="" asp-controller="TipoUsuario"
-                                    asp-action="Index">
-                                    <i class="bi bi-person-circle"></i> <span class="ms-1 d-none d-sm-inline">Tipos de
-                                        Usuario</span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link align-middle px-0" asp-area="" asp-controller="Version"
-                                    asp-action="Index">
-                                    <i class="bi bi-code-slash"></i> <span class="ms-1 d-none d-sm-inline">Versiones</span>
-                                </a>
-                            </li>
+                            @* <li class="nav-item">
+                        <a class="nav-link align-middle px-0" style="color: White;" asp-area=""
+                        asp-controller="Mensualidad"
+                        asp-action="Index">
+                        <i class="bi bi-wallet2"></i> <span class="ms-1 d-none d-sm-inline">Mensualidades</span>
+                        </a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link align-middle px-0"style="color: White;" asp-area="" asp-controller="Persona"
+                        asp-action="Index">
+                        <i class="bi bi-people"></i> <span class="ms-1 d-none d-sm-inline">Personas</span>
+                        </a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link align-middle px-0" style="color: White;" asp-area=""
+                        asp-controller="PersonaDetalle"
+                        asp-action="Index">
+                        <i class="bi bi-person-plus"></i> <span
+                        class="ms-1 d-none d-sm-inline">Persona/Detalle</span>
+                        </a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link align-middle px-0" style="color: White;" asp-area=""
+                        asp-controller="Producto"
+                        asp-action="Index">
+                        <i class="fs-4 bi-grid"></i> <span class="ms-1 d-none d-sm-inline">Productos</span>
+                        </a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link align-middle px-0" style="color: White;" asp-area="" asp-controller="Sexo"
+                        asp-action="Index">
+                        <i class="bi bi-gender-ambiguous"></i> <span
+                        class="ms-1 d-none d-sm-inline">Sexos</span>
+                        </a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link align-middle px-0" style="color: White;" asp-area=""
+                        asp-controller="Sucursal"
+                        asp-action="Index">
+                        <i class="bi bi-building"></i> <span class="ms-1 d-none d-sm-inline">Sucursales</span>
+                        </a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link align-middle px-0" style="color: White;" asp-area=""
+                        asp-controller="TipoPersona"
+                        asp-action="Index">
+                        <i class="bi bi-person-square"></i> <span class="ms-1 d-none d-sm-inline">Tipos de
+                        Persona</span>
+                        </a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link align-middle px-0" style="color: White;" asp-area=""
+                        asp-controller="TipoUsuario"
+                        asp-action="Index">
+                        <i class="bi bi-person-circle"></i> <span class="ms-1 d-none d-sm-inline">Tipos de
+                        Usuario</span>
+                        </a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link align-middle px-0" style="color: White;" asp-area="" asp-controller="Version"
+                        asp-action="Index">
+                        <i class="bi bi-code-slash"></i> <span class="ms-1 d-none d-sm-inline">Versiones</span>
+                        </a>
+                        </li> *@
                         </ul>
                         <hr>
                         <partial name="_LoginPartial" />
@@ -125,7 +151,16 @@
         </div>
     </div>
 
-    <!--<div class="dropdown pb-4">
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>
+
+
+<!--<div class="dropdown pb-4">
         <a href="#" class="d-flex align-items-center text-white text-decoration-none dropdown-toggle"
             id="dropdownUser1" data-bs-toggle="dropdown" aria-expanded="false">
             <img src="https://github.com/mdo.png" alt="hugenerd" width="30" height="30"
@@ -142,15 +177,8 @@
             <li><a class="dropdown-item" href="#">Sign out</a></li>
         </ul>
     </div>-->
-    <!--<footer class="border-top footer fixed-bottom text-muted">
+<!--<footer class="border-top footer fixed-bottom text-muted">
         <div class="container">
             &copy; 2023 - GrupoCorsal - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>-->
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    @await RenderSectionAsync("Scripts", required: false)
-</body>
-
-</html>
