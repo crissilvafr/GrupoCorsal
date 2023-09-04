@@ -50,6 +50,13 @@ namespace GrupoCorsal.Controllers
         // GET: Persona/Create
         public IActionResult Create()
         {
+            List<SelectListItem> items = new List<SelectListItem>();
+            //Personas
+            List<Sexo> generos = _context.Sexo.ToList<Sexo>();
+            foreach(Sexo genero in generos){
+                items.Add(new SelectListItem { Text = genero.nombre, Value = genero.id.ToString() });
+            }
+            ViewBag.Generos = items;
             return View();
         }
 
