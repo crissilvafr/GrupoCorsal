@@ -5,317 +5,316 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
-build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GrupoCorsal
 build_property.RootNamespace = GrupoCorsal
-build_property.ProjectDir = c:\Users\Admin\Desktop\GrupoCorsal\
+build_property.ProjectDir = /home/crissilvafr/GrupoCorsal/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\Admin\Desktop\GrupoCorsal
+build_property.MSBuildProjectDirectory = /home/crissilvafr/GrupoCorsal
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Areas/Identity/Pages/Account/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+[/home/crissilvafr/GrupoCorsal/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Areas/Identity/Pages/Account/Logout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+[/home/crissilvafr/GrupoCorsal/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Areas/Identity/Pages/Account/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+[/home/crissilvafr/GrupoCorsal/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
+[/home/crissilvafr/GrupoCorsal/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Areas/Identity/Pages/Account/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+[/home/crissilvafr/GrupoCorsal/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9fVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+[/home/crissilvafr/GrupoCorsal/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Areas/Identity/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Areas/Identity/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+[/home/crissilvafr/GrupoCorsal/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Cotizacion/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ290aXphY2lvblxDcmVhdGUuY3NodG1s
+[/home/crissilvafr/GrupoCorsal/Views/Cotizacion/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ290aXphY2lvbi9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Cotizacion/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ290aXphY2lvblxEZWxldGUuY3NodG1s
+[/home/crissilvafr/GrupoCorsal/Views/Cotizacion/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ290aXphY2lvbi9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Cotizacion/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ290aXphY2lvblxEZXRhaWxzLmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Views/Cotizacion/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ290aXphY2lvbi9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Cotizacion/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ290aXphY2lvblxFZGl0LmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Views/Cotizacion/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ290aXphY2lvbi9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Cotizacion/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ290aXphY2lvblxJbmRleC5jc2h0bWw=
+[/home/crissilvafr/GrupoCorsal/Views/Cotizacion/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ290aXphY2lvbi9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/home/crissilvafr/GrupoCorsal/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/MarcaProducto/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FQcm9kdWN0b1xDcmVhdGUuY3NodG1s
+[/home/crissilvafr/GrupoCorsal/Views/Marca/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFyY2EvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/MarcaProducto/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FQcm9kdWN0b1xEZWxldGUuY3NodG1s
+[/home/crissilvafr/GrupoCorsal/Views/Marca/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFyY2EvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/MarcaProducto/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FQcm9kdWN0b1xEZXRhaWxzLmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Views/Marca/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFyY2EvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/MarcaProducto/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FQcm9kdWN0b1xFZGl0LmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Views/Marca/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFyY2EvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/MarcaProducto/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FQcm9kdWN0b1xJbmRleC5jc2h0bWw=
+[/home/crissilvafr/GrupoCorsal/Views/Marca/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFyY2EvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Marca/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FcQ3JlYXRlLmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Views/MarcaProducto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFyY2FQcm9kdWN0by9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Marca/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FcRGVsZXRlLmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Views/MarcaProducto/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFyY2FQcm9kdWN0by9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Marca/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FcRGV0YWlscy5jc2h0bWw=
+[/home/crissilvafr/GrupoCorsal/Views/MarcaProducto/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFyY2FQcm9kdWN0by9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Marca/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FcRWRpdC5jc2h0bWw=
+[/home/crissilvafr/GrupoCorsal/Views/MarcaProducto/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFyY2FQcm9kdWN0by9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Marca/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FcSW5kZXguY3NodG1s
+[/home/crissilvafr/GrupoCorsal/Views/MarcaProducto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFyY2FQcm9kdWN0by9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Mensualidad/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuc3VhbGlkYWRcQ3JlYXRlLmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Views/Mensualidad/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVuc3VhbGlkYWQvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Mensualidad/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuc3VhbGlkYWRcRGVsZXRlLmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Views/Mensualidad/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVuc3VhbGlkYWQvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Mensualidad/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuc3VhbGlkYWRcRGV0YWlscy5jc2h0bWw=
+[/home/crissilvafr/GrupoCorsal/Views/Mensualidad/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVuc3VhbGlkYWQvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Mensualidad/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuc3VhbGlkYWRcRWRpdC5jc2h0bWw=
+[/home/crissilvafr/GrupoCorsal/Views/Mensualidad/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVuc3VhbGlkYWQvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Mensualidad/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuc3VhbGlkYWRcSW5kZXguY3NodG1s
+[/home/crissilvafr/GrupoCorsal/Views/Mensualidad/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVuc3VhbGlkYWQvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/PersonaDetalle/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYURldGFsbGVcQ3JlYXRlLmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Views/Persona/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29uYS9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/PersonaDetalle/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYURldGFsbGVcRGVsZXRlLmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Views/Persona/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29uYS9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/PersonaDetalle/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYURldGFsbGVcRGV0YWlscy5jc2h0bWw=
+[/home/crissilvafr/GrupoCorsal/Views/Persona/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29uYS9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/PersonaDetalle/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYURldGFsbGVcRWRpdC5jc2h0bWw=
+[/home/crissilvafr/GrupoCorsal/Views/Persona/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29uYS9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/PersonaDetalle/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYURldGFsbGVcSW5kZXguY3NodG1s
+[/home/crissilvafr/GrupoCorsal/Views/Persona/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29uYS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Persona/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxDcmVhdGUuY3NodG1s
+[/home/crissilvafr/GrupoCorsal/Views/PersonaDetalle/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29uYURldGFsbGUvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Persona/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxEZWxldGUuY3NodG1s
+[/home/crissilvafr/GrupoCorsal/Views/PersonaDetalle/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29uYURldGFsbGUvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Persona/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxEZXRhaWxzLmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Views/PersonaDetalle/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29uYURldGFsbGUvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Persona/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxFZGl0LmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Views/PersonaDetalle/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29uYURldGFsbGUvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Persona/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxJbmRleC5jc2h0bWw=
+[/home/crissilvafr/GrupoCorsal/Views/PersonaDetalle/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29uYURldGFsbGUvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Producto/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cQ3JlYXRlLmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Views/Producto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdG8vQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Producto/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cRGVsZXRlLmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Views/Producto/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdG8vRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Producto/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cRGV0YWlscy5jc2h0bWw=
+[/home/crissilvafr/GrupoCorsal/Views/Producto/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdG8vRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Producto/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cRWRpdC5jc2h0bWw=
+[/home/crissilvafr/GrupoCorsal/Views/Producto/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdG8vRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Producto/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cSW5kZXguY3NodG1s
+[/home/crissilvafr/GrupoCorsal/Views/Producto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdG8vSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Sexo/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V4b1xDcmVhdGUuY3NodG1s
+[/home/crissilvafr/GrupoCorsal/Views/Sexo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2V4by9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Sexo/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V4b1xEZWxldGUuY3NodG1s
+[/home/crissilvafr/GrupoCorsal/Views/Sexo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2V4by9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Sexo/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V4b1xEZXRhaWxzLmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Views/Sexo/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2V4by9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Sexo/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V4b1xFZGl0LmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Views/Sexo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2V4by9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Sexo/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V4b1xJbmRleC5jc2h0bWw=
+[/home/crissilvafr/GrupoCorsal/Views/Sexo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2V4by9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Shared/_LoginPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+[/home/crissilvafr/GrupoCorsal/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/home/crissilvafr/GrupoCorsal/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Sucursal/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VjdXJzYWxcQ3JlYXRlLmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Views/Sucursal/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3VjdXJzYWwvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Sucursal/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VjdXJzYWxcRGVsZXRlLmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Views/Sucursal/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3VjdXJzYWwvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Sucursal/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VjdXJzYWxcRGV0YWlscy5jc2h0bWw=
+[/home/crissilvafr/GrupoCorsal/Views/Sucursal/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3VjdXJzYWwvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Sucursal/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VjdXJzYWxcRWRpdC5jc2h0bWw=
+[/home/crissilvafr/GrupoCorsal/Views/Sucursal/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3VjdXJzYWwvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Sucursal/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VjdXJzYWxcSW5kZXguY3NodG1s
+[/home/crissilvafr/GrupoCorsal/Views/Sucursal/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3VjdXJzYWwvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/TipoPersona/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1BlcnNvbmFcQ3JlYXRlLmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Views/TipoPersona/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwb1BlcnNvbmEvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/TipoPersona/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1BlcnNvbmFcRGVsZXRlLmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Views/TipoPersona/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwb1BlcnNvbmEvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/TipoPersona/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1BlcnNvbmFcRGV0YWlscy5jc2h0bWw=
+[/home/crissilvafr/GrupoCorsal/Views/TipoPersona/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwb1BlcnNvbmEvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/TipoPersona/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1BlcnNvbmFcRWRpdC5jc2h0bWw=
+[/home/crissilvafr/GrupoCorsal/Views/TipoPersona/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwb1BlcnNvbmEvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/TipoPersona/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1BlcnNvbmFcSW5kZXguY3NodG1s
+[/home/crissilvafr/GrupoCorsal/Views/TipoPersona/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwb1BlcnNvbmEvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/TipoUsuario/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1VzdWFyaW9cQ3JlYXRlLmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Views/TipoUsuario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwb1VzdWFyaW8vQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/TipoUsuario/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1VzdWFyaW9cRGVsZXRlLmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Views/TipoUsuario/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwb1VzdWFyaW8vRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/TipoUsuario/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1VzdWFyaW9cRGV0YWlscy5jc2h0bWw=
+[/home/crissilvafr/GrupoCorsal/Views/TipoUsuario/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwb1VzdWFyaW8vRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/TipoUsuario/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1VzdWFyaW9cRWRpdC5jc2h0bWw=
+[/home/crissilvafr/GrupoCorsal/Views/TipoUsuario/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwb1VzdWFyaW8vRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/TipoUsuario/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1VzdWFyaW9cSW5kZXguY3NodG1s
+[/home/crissilvafr/GrupoCorsal/Views/TipoUsuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwb1VzdWFyaW8vSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Version/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVyc2lvblxDcmVhdGUuY3NodG1s
+[/home/crissilvafr/GrupoCorsal/Views/Version/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVyc2lvbi9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Version/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVyc2lvblxEZWxldGUuY3NodG1s
+[/home/crissilvafr/GrupoCorsal/Views/Version/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVyc2lvbi9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Version/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVyc2lvblxEZXRhaWxzLmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Views/Version/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVyc2lvbi9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Version/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVyc2lvblxFZGl0LmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Views/Version/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVyc2lvbi9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Version/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVyc2lvblxJbmRleC5jc2h0bWw=
+[/home/crissilvafr/GrupoCorsal/Views/Version/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVyc2lvbi9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/home/crissilvafr/GrupoCorsal/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/home/crissilvafr/GrupoCorsal/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Admin/Desktop/GrupoCorsal/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-fivtwbusab
+[/home/crissilvafr/GrupoCorsal/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-do4fop9ect

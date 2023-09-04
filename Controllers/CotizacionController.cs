@@ -50,7 +50,23 @@ namespace GrupoCorsal.Controllers
         // GET: Cotizacion/Create
         public IActionResult Create()
         {
+            
+            List<SelectListItem> items = new List<SelectListItem>();
+            //Productos
+            List<Producto> productos = _context.Producto.ToList<Producto>();
+            foreach(Producto producto in productos){
+                items.Add(new SelectListItem { Text = producto.nombre, Value = producto.id.ToString() });
+            }
+            ViewBag.Productos = items;
+
+            //Personas
+            List<Persona> personas = _context.Persona.ToList<Persona>();
+            foreach(Persona persona in personas){
+                items.Add(new SelectListItem { Text = persona.nombre + " " + persona.apellido1, Value = persona.id.ToString() });
+            }
+            ViewBag.Personas = items;
             return View();
+
         }
 
         // POST: Cotizacion/Create

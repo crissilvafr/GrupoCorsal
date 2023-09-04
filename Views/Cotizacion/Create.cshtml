@@ -29,8 +29,12 @@
                 <br>
                 <div class="col-md-4">
                     <div class="form-group">
-                        <label asp-for="produto_id" class="control-label">Producto</label>
-                        <input asp-for="produto_id" class="form-control" />
+                        <label asp-for="produto_id" class="control-label"></label>
+                        <!--input asp-for="Category" class="form-control" /-->
+                        <select class="form-control" asp-for="produto_id" name="produto_id"
+                            asp-items="@ViewBag.Productos">
+                            <option>Please Select</option>
+                        </select>
                         <span asp-validation-for="produto_id" class="text-danger"></span>
                     </div>
                 </div>
@@ -54,9 +58,18 @@
                 </div>
                 <br>
                 <div class="col-md-4">
-                    <div class="form-group">
+                    <!--div class="form-group">
                         <label asp-for="persona_id" class="control-label">Persona</label>
                         <input asp-for="persona_id" class="form-control" />
+                        <span asp-validation-for="persona_id" class="text-danger"></span>
+                    </div-->
+                    <div class="form-group">
+                        <label asp-for="persona_id" class="control-label"></label>
+                        <!--input asp-for="Category" class="form-control" /-->
+                        <select class="form-control" asp-for="persona_id" name="persona_id"
+                            asp-items="@ViewBag.Personas">
+                            <option>Please Select</option>
+                        </select>
                         <span asp-validation-for="persona_id" class="text-danger"></span>
                     </div>
                 </div>
@@ -99,7 +112,7 @@
             </div>
             <br>
             <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+                <input type="submit" value="Create" class="btn btn-gc" />
             </div>
         </form>
     </div>
